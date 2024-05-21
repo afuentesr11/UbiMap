@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTimestamp" type="id" />
+    <item name="tvLatitude" type="id" />
+    <item name="tvLongitude" type="id" />
+</resources>
