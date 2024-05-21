@@ -11,6 +11,17 @@ UbiMap is a helpfull geolocating app that enhances user experience with it`s eas
 ## Demo Video
 This is the demo to demostrate how the app works https://vimeo.com/948900201?share=copy
 
+## Features
+Functional Features:
+- It shows you the routes of the center of Madrid with the most important buildings and sites for tourits and citizens that want to know more about the city.
+
+Technical Features:
+- Persistence in csv file
+- Resful APIs used (Openwheathermaps https://openweathermap.org/api
+- Menu: Toolbar and bottom navigation menu
+- Images: glide and android studio default ones
+
+
 ## Participants
 Alfonso Fuentes Rodríguez (a.fuentesr@alumnos.upm.es)
 Yassmin Biratate Metni (y.biratate@alumnos.upm.es)
