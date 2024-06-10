@@ -12,6 +12,9 @@ UbiMap is a helpfull geolocating app that enhances user experience with it`s eas
 ## Demo Video
 This is the demo to demostrate how the app works https://vimeo.com/948900201?share=copy
 
+## Video of map funcionality - v1.0
+This video demostrate map funcionality who has been repaired in the version 1.0 https://vimeo.com/956174557
+
 ## Features
 Functional Features:
 - It shows you the routes of the center of Madrid with the most important buildings and sites for tourits and citizens that want to know more about the city.
