@@ -11,6 +11,7 @@ UbiMap is a helpfull geolocating app that enhances user experience with it`s eas
 
 ## Demo Video
 This is the demo to demostrate how the app works https://vimeo.com/948900201?share=copy
+Because of the storage issue, UbiMap rar v1.0 is in this link https://drive.google.com/file/d/1hXaYWhe-kmdrgJd7LWL71ngHDi7_1ZUw/view?usp=sharing 
 
 ## Video of map funcionality - v1.0
 This video demostrate map funcionality who has been repaired in the version 1.0 https://vimeo.com/956174557
