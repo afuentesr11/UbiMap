@@ -27,5 +27,5 @@ Technical Features:
 
 
 ## Participants
-Alfonso Fuentes Rodríguez (a.fuentesr@alumnos.upm.es)
-Yassmin Biratate Metni (y.biratate@alumnos.upm.es)
+ - Alfonso Fuentes Rodríguez (a.fuentesr@alumnos.upm.es)
+ - Yassmin Biratate Metni (y.biratate@alumnos.upm.es)
